@@ -1,0 +1,4 @@
+Deposit: +$1000.0
+Deposit: +$1000.0
+Deposit: +R250.0
+Withdrawal: -R100.0
